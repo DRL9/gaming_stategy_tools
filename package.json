@@ -19,7 +19,7 @@
   "homepage": "https://github.com/DRL9/gaming_stategy_tools#readme",
   "dependencies": {
     "axios": "^0.19.2",
-    "jsdom": "^16.1.0",
+    "jsdom": "^16.5.0",
     "ramda": "^0.27.0"
   }
 }
